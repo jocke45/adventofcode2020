@@ -1,2 +1,5 @@
 Pipfile
 Pipfile.lock
+./day4/invalid_passports.txt
+./day4/valid_passports.txt
+./day4/passport_list_sample.txt
